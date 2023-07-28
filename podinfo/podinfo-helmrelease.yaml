@@ -14,3 +14,6 @@ spec:
         name: podinfo
   interval: 1m0s
   targetNamespace: dev
+  values:
+    ui:
+      color: "#C32148"  
