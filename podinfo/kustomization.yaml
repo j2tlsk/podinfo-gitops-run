@@ -5,5 +5,4 @@ resources: [
   namespace.yaml,
   podinfo-source.yaml,
   podinfo-helmrelease.yaml
-]
-  
+] # 👋 Start adding the resources you want to sync here
